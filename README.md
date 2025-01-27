@@ -1,6 +1,6 @@
 # **Walmart Sales Forecasting: Data-Driven Insights**
 
-This project focuses on building predictive models to forecast weekly sales for Walmart stores. By leveraging advanced machine learning techniques, we explore temporal patterns, feature engineering, and optimization to develop robust models that provide actionable insights for sales forecasting.
+This project focuses on building predictive models to forecast weekly sales for Walmart stores. By leveraging machine learning , we explore temporal patterns, feature engineering, and optimization to develop robust models that provide actionable insights for sales forecasting.
 
 ## **Problem Statement**
 The task is to predict weekly sales for Walmart stores using historical sales data and features such as:
